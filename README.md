@@ -6,7 +6,9 @@ Este repositório contém a resolução do case técnico proposto pelo Grupo Mou
 
 - `Queries-Desafio` → Queries desenvolvidas para responder às questões do case;
 - `Analise_Case.pdf` → Documento contendo as queries, resultados e análises realizadas;
+- `Dashboard.png` → Arquivo PNG do Dashboard;
 - `Dashboard-Case-Tecnico.pbix` → Arquivo do dashboard desenvolvido no Power BI;
+- `desafio_moura.sql` → Arquivo SQL com a base de dados utilizada em MySQL;
 - `bases/` → Arquivos CSV disponibilizados para o desafio.
 
 ## Atividades desenvolvidas
