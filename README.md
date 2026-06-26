@@ -4,7 +4,7 @@ Este repositório contém a resolução do case técnico proposto pelo Grupo Mou
 
 ## Estrutura do projeto
 
-- `Queries-Desafio` → Queries desenvolvidas para responder às questões do case;
+- `queries` → Queries desenvolvidas para responder às questões do case;
 - `Analise_Case.pdf` → Documento contendo as queries, resultados e análises realizadas;
 - `Dashboard.png` → Arquivo PNG do Dashboard;
 - `Dashboard-Case-Tecnico.pbix` → Arquivo do dashboard desenvolvido no Power BI;
